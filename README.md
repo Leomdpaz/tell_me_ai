@@ -3,4 +3,4 @@
 
 ##### O meu código está sendo desenvolvido durante o estudo das aulas **NLW IA | Rocketseat**. 
 
-   **Inicialmente** o projeto tem como objetivo reconhecer uma URL de um _short_ do youtube e fazer com que a **I.A** interprete e **resuma** os acontecidos no vídeo escolhido.
+   **Inicialmente** o projeto tem como objetivo reconhecer uma URL de um _short_ do youtube e fazer com que a **I.A** interprete e **resuma** o áudio no vídeo escolhido.
