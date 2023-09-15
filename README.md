@@ -10,6 +10,7 @@ Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@R
 </p>
 <hr>
 <h1 align="center">Tecnologias utilizadas neste projeto 🖥️</h1>
+<br>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
@@ -25,23 +26,23 @@ Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@R
 <br>
 <p>No terminal, digite:</p>
   <li>Instalar o Npm:</li>
-  
   <ul> 
     
-`npm run server`  
+`npm run i`  
 
 Surgirá a pasta *node_modules*
 <hr>
 <h1 align="center">Iniciar aplicação 🔌</h1> 
 <br>
-<p>No terminal, digite:</p>
-  <li>Iniciar Servidor:</li>
-    
+<p>No terminal:</p>
+<li>Iniciar Servidor:</li>
+
 `npm run server`
-	<br>
-	<li>Iniciar Web:</li>
-    
+<br>
+<li>Iniciar Web:</li>
+
 `npm run web`
+<br>
 
 Acesse o link *localhost* indicado no terminal
 <br>
@@ -51,7 +52,8 @@ Acesse o link *localhost* indicado no terminal
 <hr>
 <h1 align="center">Método de funcionamento 🔍</h1> 
 <ul>
-  
+<br>
+	
 - O usuário copiará o link do *short* que será resumido e dará o *input* no site;
 
 - Após validar o vídeo, o programa irá baixar o arquivo em formato `.mp4`;
