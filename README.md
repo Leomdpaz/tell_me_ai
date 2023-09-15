@@ -1,6 +1,6 @@
 <h1 align="center">Descrição 🤖</h1> 
-Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> na _Next Level Week I.A_ durante os dias 11 à 14 de Setembro de 2023.
-   O site ***Tell Me*** tem como objetivo transcrever e resumir o conteúdo falado nos vídeos de curta duração do youtube *(shorts)*. Esta ferramenta tem sua capacidade e funcionalidade escalável, podendo assim ser usada de diversas formas para atender a diferentes necessidades.
+Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@Rocketseat</a></strong> na <em>Next Level Week I.A</em> durante os dias 11 à 14 de Setembro de 2023.
+   O site <strong><em>Tell Me</em></strong> tem como objetivo transcrever e resumir o conteúdo falado nos vídeos de curta duração do youtube (<em>shorts</em>). Esta ferramenta tem sua capacidade e funcionalidade escalável, podendo assim ser usada de diversas formas para atender a diferentes necessidades.
 <hr>
 <p align="center">
  <a>Tecnologias</a> •
