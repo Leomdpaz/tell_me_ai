@@ -17,7 +17,8 @@ Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@R
   <li>Node.js</li>
   <li>Inteligências Artificiais Whisper e Bart</li>
 </ul>
-<hr><h2 align="center">Instalação das dependências 👨‍💻</h2>
+<hr>
+<h1 align="center">Instalação das dependências 👨‍💻</h1>
 <hr>
 <strong>OBS: Necessário possuir o NodeJS na sua máquina.</strong>
 <br>
@@ -48,7 +49,7 @@ Acesse o link *localhost* indicado no terminal
     <strong>*Tell Me está pronto para ser usado*.</strong>
   </ul>
 <hr>
-<h1 align="center">Método 🔍</h1> 
+<h1 align="center">Método de funcionamento 🔍</h1> 
 <ul>
   
 - O usuário copiará o link do *short* que será resumido e dará o *input* no site;
