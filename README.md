@@ -3,10 +3,10 @@ Projeto desenvolvido junto à <strong><a href="https://github.com/Rocketseat">@R
    O site ***Tell Me*** tem como objetivo transcrever e resumir o conteúdo falado nos vídeos de curta duração do youtube *(shorts)*. Esta ferramenta tem sua capacidade e funcionalidade escalável, podendo assim ser usada de diversas formas para atender a diferentes necessidades.
 <hr>
 <p align="center">
- <a href="Tecnologias utilizadas neste projeto 🖥️">Tecnologias</a> •
- <a href="Instalação das dependências 👨‍💻">Dependências</a> • 
- <a href="Iniciar aplicação 🔌">Iniciar</a> • 
- <a href="Método 🔍">Método</a> 
+ <a>Tecnologias</a> •
+ <a>Dependências</a> • 
+ <a>Iniciar</a> • 
+ <a>Método</a> 
 </p>
 <hr>
 <h1 align="center">Tecnologias utilizadas neste projeto 🖥️</h1>
